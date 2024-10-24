@@ -1,5 +1,5 @@
 # Description:
-## The Spotify Clone is a web application that replicates the core features and functionality of the popular music streaming service Spotify. Built entirely with vanilla JavaScript, HTML, and CSS, this project aims to demonstrate a solid understanding of front-end development fundamentals and the ability to create dynamic and interactive web applications without the use of external libraries or frameworks.
+## The Spotify Clone is a web application that replicates the core features and functionality of the popular music streaming service Spotify. Built entirely with JavaScript, HTML, and CSS, this project aims to demonstrate a solid understanding of front-end development fundamentals and the ability to create dynamic and interactive web applications without the use of external libraries or frameworks.
 ***
 
 # Key Features:
